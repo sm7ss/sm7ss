@@ -1,6 +1,6 @@
 # 🐥 Hi, Sharon Here
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/sharon-stefani-minutti-soto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sharon-stefani-minutti-soto/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/sm7ss)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:sharon.minutti.soto.21@gmail.com)
 
@@ -66,7 +66,7 @@ Opportunities at **Data Engineering** where you can:
 ## 🐣 Let's connect
 
 - **GitHub:** [github](https://github.com/sm7ss)
-- **LinkedIn:** [linkedin](www.linkedin.com/in/sharon-stefani-minutti-soto)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/sharon-stefani-minutti-soto/)
 - **Email:** sharon.minutti.soto.21@gmail.com
 
 ---
