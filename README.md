@@ -65,8 +65,8 @@ Opportunities at **Data Engineering** where you can:
 
 ## 🐣 Let's connect
 
-- **GitHub:** [github.com/sm7ss](https://github.com/sm7ss)
-- **LinkedIn:** [linkedin.com/in/mila-minutti](www.linkedin.com/in/sharon-stefani-minutti-soto)
+- **GitHub:** [github](https://github.com/sm7ss)
+- **LinkedIn:** [linkedin](www.linkedin.com/in/sharon-stefani-minutti-soto)
 - **Email:** sharon.minutti.soto.21@gmail.com
 
 ---
